@@ -1,4 +1,4 @@
 streamlit
 numpy
 pandas
-plolty==6.8.0
+plotly==6.8.0
